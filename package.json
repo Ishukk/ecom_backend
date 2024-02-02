@@ -1,0 +1,22 @@
+{
+  "name": "ecom_backend",
+  "version": "1.0.0",
+  "description": "learning ecomm application",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishukk/ecom_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishukk/ecom_backend/issues"
+  },
+  "homepage": "https://github.com/Ishukk/ecom_backend#readme",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
